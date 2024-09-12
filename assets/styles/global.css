@@ -1,0 +1,18 @@
+html,
+body, 
+#__nuxt {
+  min-height: 100%;
+  display: flex;
+  width: 100%;
+  flex-grow: 1;
+  flex-direction: column;
+
+}
+
+body {
+  background-color: hsla(41.53846154,39.39393939%,93.52941176%,1);
+  margin: 0;
+  overflow-x: hidden;
+  font-family: 'Poppins';
+}
+
