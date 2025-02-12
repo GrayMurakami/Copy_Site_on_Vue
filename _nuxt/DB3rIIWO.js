@@ -1,0 +1,1 @@
+import{_ as e,t as _,v as c,K as r}from"./B4Tg9g3m.js";const s={};function a(n,o){return c(),_("div")}const f=e(s,[["render",a]]),d={};function i(n,o){const t=f;return c(),r(t)}const p=e(d,[["render",i]]);export{p as default};
